@@ -1,5 +1,7 @@
 # py-sumo-history
-An application to ingest and manage Sumo Logic history
+An application to ingest and manage Sumo Logic history.
+
+Sumo Logic is fabulous at collecting, processing, and aggregates logs and metrics. It's not so great at sharing downstream. I have a need to send some data from Sumo Logic into Snowflake. Since there is no direct intregration, this application is a connector of sorts.
 
 ## Setup
 
