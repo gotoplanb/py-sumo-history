@@ -1,2 +1,4 @@
 # py-sumo-history
-A FastAPI application to receive 
+An application to ingest and manage Sumo Logic history
+
+`make run`
